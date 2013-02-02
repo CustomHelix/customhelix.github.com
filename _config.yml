@@ -6,10 +6,9 @@ exclude:
   - Rakefile
   - Gemfile
   - .gitignore
-author: Luca G. Soave
+author: Custom Helix Ltda
 gravatar: 9c7d80ebc20ab8994e51b9f7518909ae
-email: luca.soave@gmail.com
-web: http://gitwatcher.com/profiles/lsoave
-twitter: lgswitter
-github: lgs
-linkedin: lucasoave
+email: blog@customhelix.com
+web: http://customhelix.github.com
+twitter: CustomHelix
+github: CustomHelix
